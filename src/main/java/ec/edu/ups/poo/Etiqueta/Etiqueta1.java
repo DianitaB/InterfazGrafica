@@ -1,8 +1,6 @@
-package ec.edu.ups.poo;
-import java.awt.Frame;
-import java.awt.Label;
+package ec.edu.ups.poo.Etiqueta;
 
-// iNTERFACES : CONJUNTO DE METODOS ABTRACTOS QUE IBAN A SER IMPLEMENDATAS EN UNA CLASE ESPECIFICA
+import java.awt.*;
 
 public class Etiqueta1 {
     public static void main (String[] args) {
@@ -11,9 +9,9 @@ public class Etiqueta1 {
 
         MiMarco.add(Titulo);
 
-        MiMarco.setSize(600, 400);
+        MiMarco.setSize(200, 100);
         MiMarco.setTitle("Ventana con etiqueta");
         MiMarco.setVisible(true);
     }
-
 }
+// iNTERFACES : CONJUNTO DE METODOS ABTRACTOS QUE IBAN A SER IMPLEMENDATAS EN UNA CLASE ESPECIFICA

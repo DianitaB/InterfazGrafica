@@ -2,7 +2,7 @@ package ec.edu.ups.poo;
 
 import java.awt.*;
 
-public class Main {
+/*public class Main {
     public static void main (String[] args){
         MiVentana v1 = new MiVentana();
         MiVentana v2 = new MiVentana("Ventana 2");
@@ -15,3 +15,5 @@ public class Main {
         v2.add(boton);
     }
 }
+
+ */

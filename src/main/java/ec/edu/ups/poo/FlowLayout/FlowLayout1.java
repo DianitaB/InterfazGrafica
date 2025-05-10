@@ -1,7 +1,8 @@
-package ec.edu.ups.poo;
+package ec.edu.ups.poo.FlowLayout;
+
 import java.awt.*;
 
-public class FlowLayoutP {
+public class FlowLayout1 {
     public static void main (String[] args) {
         Frame miVentana = new Frame ();
         Panel miPanelPrincipal = new Panel ();

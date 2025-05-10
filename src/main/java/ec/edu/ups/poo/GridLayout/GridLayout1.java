@@ -1,4 +1,4 @@
-package ec.edu.ups.poo;
+package ec.edu.ups.poo.GridLayout;
 
 import java.awt.*;
 
@@ -42,5 +42,7 @@ public class GridLayout1 {
 // 2 FORMAS DE HACERLO
 // Se puede instanciar directamente en el constructor
 // Instancio vacío y por medio de los getter y setter llamo a los mismos
+
+
 
 
